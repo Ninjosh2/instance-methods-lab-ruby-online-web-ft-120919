@@ -4,4 +4,4 @@ class Person
   end
   
   def walk 
-    puts "The person "
+    puts "The Person is "
